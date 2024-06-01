@@ -1,0 +1,1 @@
+print("he wants work")
